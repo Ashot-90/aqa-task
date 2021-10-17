@@ -24,6 +24,6 @@ and definitely such kind of algorithmic problem solving skills are not one of my
 In spite of that I have stronger QE specific skills, which I'll be glad to introduce you during the call.
 
 ### References
-https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e
-https://www.tutorialspoint.com/merge-k-sorted-lists-in-python
+https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e \
+https://www.tutorialspoint.com/merge-k-sorted-lists-in-python \
 https://hg.python.org/cpython/file/default/Lib/heapq.py#l314
